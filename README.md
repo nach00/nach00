@@ -1,9 +1,11 @@
 ## Hi there 👋
+<h1 align="center">I'm Natcha Pradappet</h1>
+<h3 align="center">A passionate frontend developer from Texas</h3>
 
-<!--
-**nach00/nach00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
